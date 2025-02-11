@@ -7,7 +7,6 @@ A simple **Breakout Game** built using **Vanilla JavaScript, HTML, and CSS**. Th
 ## 🖼 Screenshot
 
 ![Breakout Game Screenshot](boll.png)  
-_(Replace with an actual screenshot of the game)_
 
 ---
 
